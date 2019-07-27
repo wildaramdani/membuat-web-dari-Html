@@ -1,0 +1,88 @@
+.wrap{
+	background: url(logo.jpg);
+	height:150px; 			
+    color: blue;
+	padding: 5px;
+	text-align: center;
+	font-family: cursive;
+}
+ 
+
+ .header ul{
+	background: gray;
+	height: 30px;
+	
+	margin: 0px;
+	padding: 3px;
+
+	
+}
+ 
+
+.menu{
+	background: yellow;
+	
+}
+ 
+
+.menu ul{
+	
+	margin: 0px;
+	overflow: hidden;
+
+} 
+
+.menu ul li{
+	float: left;
+	list-style-type: none;
+	text-align: center; 
+	padding: 10px 80px;
+	font-family: cursive;
+}
+
+ 
+.clear{
+	clear: both;
+}
+ 
+.badan{
+	height: 450px;
+}
+
+.badan .sidebar{
+	background: gray;
+	float: left;	
+	width: 15%;
+	height: 100%;
+
+}
+  
+.badan .content{
+	background: blue;
+	float: left;
+	height: 100%;
+	width: 60%;	
+	text-align: center;
+	font-family: cursive;
+	
+}
+
+
+.badan .sidebar2{
+	background: gray;
+	float: right;	
+	width: 25%;
+	height: 100%;
+	text-align: center;
+	font-family: cursive;
+}
+
+
+ 
+.footer{
+	background: url(footer.jpg);
+	height:150px; 			
+	padding: 5px;
+	text-align: center;
+
+}
